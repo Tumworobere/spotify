@@ -46,7 +46,7 @@ function Footer() {
                                 return(
                                     <li className={styles.legalItem}><a href={item.url}>{item.name}</a></li>
                                 )
-                            }) 
+                            })
                         }
                     </ul>
                 </div>
